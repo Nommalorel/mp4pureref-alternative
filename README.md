@@ -6,9 +6,14 @@ This html file is a quickly made alternative to Pureref that can open video file
   Just download the bbp_0.4.zip file and extract it.
 
 # Usage:
+  Firstly either drag and drop the html file to any browser you want to or double click on the html file to run.
 
-  First put all the mp4s that you want to use in the /vids folder.
-  Either drag and drop the html file to any browser you want to or double click on the html file to run.
+  Just drag and drop videos in the viewport.
+
+  or
+
+  Put all the mp4s that you want to use in the /vids folder.
+ 
   Just click the button and then type in the file name that you have put into the /vids folder.
 
 # Note
