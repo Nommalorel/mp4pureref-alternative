@@ -3,7 +3,7 @@ This html file is a quickly made alternative to Pureref that can open video file
 
 # Installation:
 
-  Just download the bbp_0.4.zip file and extract it.
+  Just download the bbp_0.4.1.zip file and extract it.
 
 # Usage:
   Firstly either drag and drop the html file to any browser you want to or double click on the html file to run.
